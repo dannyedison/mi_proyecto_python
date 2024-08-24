@@ -18,3 +18,5 @@ if __name__ == "__main__":
 numero_uno = 5
 numero_dos = 25
 suma = numero_uno + numero_dos
+
+resta = numero_dos - numero_uno
